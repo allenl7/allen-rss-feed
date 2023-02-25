@@ -28,6 +28,7 @@
 			<outline text="Jake Tran" title="Jake Tran" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoOjH8D2XAgjzQlneM2W0EQ" />
 			<outline text="Johnny Harris" title="Johnny Harris" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmGSJVG3mCRXVOP4yZrU1Dw" />
 			<outline text="3Blue1Brown" title="3Blue1Brown" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" />
+			<outline text="Enes Yilmazer" title="Enes Yilmazer" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHWbZM3BIGgZksvXegx_h3w" />
 		</outline>
 		<outline text="Twitter" title="Twitter">
 			<outline text="Haseeb / @hosseeb" title="Haseeb / @hosseeb" type="rss" xmlUrl="https://nitter.net/hosseeb/rss" />
