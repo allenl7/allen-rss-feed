@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>
+			Allen RSS Feed
+		</title>
+	</head>
+	<body>
+		<outline text="Privacy" title="Privacy">
+			<outline text="Mental Outlaw on Odysee" title="Mental Outlaw on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@AlphaNerd:8" />
+			<outline text="Luke Smith on Odysee" title="Luke Smith on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@Luke:7" />
+			<outline text="Sun Knudsen" title="Sun Knudsen" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkHN7h7CFeYL6Y1N5JcEZug" />
+			<outline text="Rob Braxman Tech" title="Rob Braxman Tech" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw" />
+		</outline>
+		<outline text="Crypto" title="Crypto">
+			<outline text="Taiki Maeda" title="Taiki Maeda" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7B3Y1yrg4S7mmgoR-NsfxA" />
+			<outline text="Giancarlo" title="Giancarlo" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPC2iE2Yuj20m5Dimn-vVBg" />
+			<outline text="@CoinBureau" title="@CoinBureau" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw" />
+			<outline text="@TaschaLabs" title="@TaschaLabs" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzuQIjK_VdBFAFOsqILDYnA" />
+			<outline text="@Finematics" title="Finematics" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCh1ob28ceGdqohUnR7vBACA" />
+		</outline>
+		<outline text="Entertainment" title="Entertainment">
+			<outline text="Economics Explained" title="Economics Explained" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg" />
+			<outline text="Wendover Productions" title="Wendover Productions" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ" />
+			<outline text="Rahul Pandey" title="Rahul Pandey" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJNUtbsYnt-8meFSj_yF50Q" />
+			<outline text="Veritasium" title="Veritasium" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA" />
+			<outline text="ThePrimeagen" title="ThePrimeagen" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8ENHE5xdFSwx71u3fDH5Xw" />
+			<outline text="Jake Tran" title="Jake Tran" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoOjH8D2XAgjzQlneM2W0EQ" />
+			<outline text="Johnny Harris" title="Johnny Harris" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmGSJVG3mCRXVOP4yZrU1Dw" />
+			<outline text="3Blue1Brown" title="3Blue1Brown" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" />
+		</outline>
+		<outline text="Twitter" title="Twitter">
+			<outline text="Haseeb / @hosseeb" title="Haseeb / @hosseeb" type="rss" xmlUrl="https://nitter.net/hosseeb/rss" />
+			<outline text="Balaji / @balajis" title="Balaji / @balajis" type="rss" xmlUrl="https://nitter.net/balajis/rss" />
+			<outline text="ThePrimeagen" title="ThePrimeagen" type="rss" xmlUrl="https://nitter.net/ThePrimeagen/rss" />
+			<outline text="DawsonBotsford" title="DawsonBotsford" type="rss" xmlUrl="https://nitter.net/DawsonBotsford/rss" />
+		</outline>
+	</body>
+</opml>
