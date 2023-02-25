@@ -18,6 +18,7 @@
 			<outline text="@CoinBureau" title="@CoinBureau" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw" />
 			<outline text="@TaschaLabs" title="@TaschaLabs" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzuQIjK_VdBFAFOsqILDYnA" />
 			<outline text="@Finematics" title="Finematics" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCh1ob28ceGdqohUnR7vBACA" />
+			<outline text="Ceazor's Snack Sandwich" title="Ceazor's Snack Sandwich" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_o4_cOevPVYC5pXs9OOexg" />
 		</outline>
 		<outline text="Entertainment" title="Entertainment">
 			<outline text="Economics Explained" title="Economics Explained" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg" />
