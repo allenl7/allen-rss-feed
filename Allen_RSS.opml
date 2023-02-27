@@ -12,6 +12,10 @@
 			<outline text="Sun Knudsen" title="Sun Knudsen" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkHN7h7CFeYL6Y1N5JcEZug" />
 			<outline text="Rob Braxman Tech" title="Rob Braxman Tech" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw" />
 		</outline>
+		<outline text="Privacy" title="Educational">
+			<outline text="Study with Alex" title="Study with Alex" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUdkjbeIFea0qUSgwR1CUOg" />
+			<outline text="3Blue1Brown" title="3Blue1Brown" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" />
+		</outline>
 		<outline text="Crypto" title="Crypto">
 			<outline text="Taiki Maeda" title="Taiki Maeda" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7B3Y1yrg4S7mmgoR-NsfxA" />
 			<outline text="Giancarlo" title="Giancarlo" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPC2iE2Yuj20m5Dimn-vVBg" />
@@ -28,7 +32,6 @@
 			<outline text="ThePrimeagen" title="ThePrimeagen" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8ENHE5xdFSwx71u3fDH5Xw" />
 			<outline text="Jake Tran" title="Jake Tran" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoOjH8D2XAgjzQlneM2W0EQ" />
 			<outline text="Johnny Harris" title="Johnny Harris" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmGSJVG3mCRXVOP4yZrU1Dw" />
-			<outline text="3Blue1Brown" title="3Blue1Brown" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" />
 			<outline text="Enes Yilmazer" title="Enes Yilmazer" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHWbZM3BIGgZksvXegx_h3w" />
 		</outline>
 		<outline text="Twitter" title="Twitter">
