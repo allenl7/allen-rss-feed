@@ -6,6 +6,9 @@
 		</title>
 	</head>
 	<body>
+		<outline text="Cooking" title="Cooking">
+			<outline text="Magic Ingredients" title="Magic Ingredients" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCKlp1JI9Yg3-cUjKPdD3mw" />
+		</outline>
 		<outline text="Privacy" title="Privacy">
 			<outline text="Mental Outlaw on Odysee" title="Mental Outlaw on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@AlphaNerd:8" />
 			<outline text="Luke Smith on Odysee" title="Luke Smith on Odysee" type="rss" xmlUrl="https://odysee.com/$/rss/@Luke:7" />
